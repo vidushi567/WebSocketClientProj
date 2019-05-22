@@ -1,0 +1,11 @@
+/Users/ravi/Projects/TestWebSocket/TestWebSocket/bin/Debug/netcoreapp2.2/TestWebSocket.deps.json
+/Users/ravi/Projects/TestWebSocket/TestWebSocket/bin/Debug/netcoreapp2.2/TestWebSocket.runtimeconfig.json
+/Users/ravi/Projects/TestWebSocket/TestWebSocket/bin/Debug/netcoreapp2.2/TestWebSocket.runtimeconfig.dev.json
+/Users/ravi/Projects/TestWebSocket/TestWebSocket/bin/Debug/netcoreapp2.2/TestWebSocket.dll
+/Users/ravi/Projects/TestWebSocket/TestWebSocket/bin/Debug/netcoreapp2.2/TestWebSocket.pdb
+/Users/ravi/Projects/TestWebSocket/TestWebSocket/obj/Debug/netcoreapp2.2/TestWebSocket.csprojAssemblyReference.cache
+/Users/ravi/Projects/TestWebSocket/TestWebSocket/obj/Debug/netcoreapp2.2/TestWebSocket.csproj.CoreCompileInputs.cache
+/Users/ravi/Projects/TestWebSocket/TestWebSocket/obj/Debug/netcoreapp2.2/TestWebSocket.AssemblyInfoInputs.cache
+/Users/ravi/Projects/TestWebSocket/TestWebSocket/obj/Debug/netcoreapp2.2/TestWebSocket.AssemblyInfo.cs
+/Users/ravi/Projects/TestWebSocket/TestWebSocket/obj/Debug/netcoreapp2.2/TestWebSocket.dll
+/Users/ravi/Projects/TestWebSocket/TestWebSocket/obj/Debug/netcoreapp2.2/TestWebSocket.pdb

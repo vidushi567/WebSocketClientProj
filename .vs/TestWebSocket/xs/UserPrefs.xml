@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C6F3B957-2207-412E-9892-4DE92047C133}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestWebSocket/Program.cs">
+    <Files>
+      <File FileName="TestWebSocket/Program.cs" Line="14" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestWebSocket" expanded="True">
+            <Node name="TestWebSocket" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestWebSocket PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ravi/Projects/TestWebSocket/TestWebSocket/Program.cs" relfile="TestWebSocket/Program.cs" line="36" column="1" />
+      <Breakpoint file="/Users/ravi/Projects/TestWebSocket/TestWebSocket/Program.cs" relfile="TestWebSocket/Program.cs" line="39" column="1" />
+      <Breakpoint file="/Users/ravi/Projects/TestWebSocket/TestWebSocket/Program.cs" relfile="TestWebSocket/Program.cs" line="58" column="1" />
+      <Breakpoint file="/Users/ravi/Projects/TestWebSocket/TestWebSocket/Program.cs" relfile="TestWebSocket/Program.cs" line="80" column="1" />
+      <Breakpoint file="/Users/ravi/Projects/TestWebSocket/TestWebSocket/Program.cs" relfile="TestWebSocket/Program.cs" line="60" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
